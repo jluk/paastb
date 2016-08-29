@@ -1,7 +1,7 @@
 # My web application shows Internal Server Error or Service Unavailable (50x)
 
 ## **Recommended steps**
-These errors are treated as application errors. Troubleshoot them just like any on premise hosted application.  
+These errors are treated as application errors, so you should troubleshoot them like any on premise hosted application.  
 
 1.	Remote into the instances and check if you can access the web application locally <br> 
 This will narrow down know instance encounters the application issue. It could be some instances or all the instances. 
@@ -12,6 +12,6 @@ The logs are generally located at *“C:\Resources\Directory\guid.role.Diagnosti
 If no error/warning event could be found, the exception may be properly handled.
 5.  Put a helloworld.html test file into the 'sitesroot' folder <br>
 If any startup files like global.asax or web.config have problems, then accessing helloworld.html will have the same issue. 
-6.  Enable Failed Request Tracing in IIS to see detailed error message
+6.  Enable Failed Request Tracing in IIS to see the detailed error message
 7.	Use DebugView to capture exceptions/errors
 8.	For further diagnostics, use [DebugDiag] (Add link to https://msdn.microsoft.com/en-us/library/ff420662.aspx), ProcDump or WinDbg to capture memory dumps and review the dumps. It will give pointers where the problem lies in the application.

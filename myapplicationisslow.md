@@ -1,7 +1,7 @@
 # My application is slow
 
 ## **Recommended steps**
-1.	Keep the external dependencies (SQL Azure, Azure Redis Cache, etc.) that the application accesses in the same region. <br>
+1.	Keep the external dependencies (SQL Azure, Azure Redis Cache, etc.) that the application accesses in the same region <br>
 If the application has a lot of external resources, network delays may cause slowness.
 2.	Review operating system level metrics such as CPU, memory usage, IO, and network <br>
 If any resource has consistently high utilization, your application may be needing more resources than the current hardware provides. Scale out or scale up if you see resource constraints. 
