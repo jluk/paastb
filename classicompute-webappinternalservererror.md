@@ -1,3 +1,17 @@
+<properties 
+	pageTitle="My web application shows Internal Server Error or Service Unavailable (50x)"
+	description="My web application shows Internal Server Error or Service Unavailable (50x)"
+	service="microsoft.classiccompute"
+	resource="virtualmachines"
+	authors="jluk"
+	displayOrder="6"
+	selfHelpType="resource"
+	supportTopicIds=""
+	resourceTags=""	 
+	productPesIds=""
+	cloudEnvironments="public"
+/>
+
 # My web application shows Internal Server Error or Service Unavailable (50x)
 
 ## **Recommended steps**
@@ -15,3 +29,5 @@ If any startup files like global.asax or web.config have problems, then accessin
 6.  Enable Failed Request Tracing in IIS to see the detailed error message
 7.	Use DebugView to capture exceptions/errors
 8.	For further diagnostics, use [DebugDiag] (Add link to https://msdn.microsoft.com/en-us/library/ff420662.aspx), ProcDump or WinDbg to capture memory dumps and review the dumps. It will give pointers where the problem lies in the application.
+
+## **Recommended documents**

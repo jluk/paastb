@@ -1,14 +1,14 @@
 <properties 
 	pageTitle="My deployment fails with allocation errors"
 	description="My deployment fails with allocation errors"
-	service="microsoft.compute"
+	service="microsoft.classiccompute"
 	resource="virtualmachines"
 	authors="jluk"
 	displayOrder="6"
 	selfHelpType="resource"
-	supportTopicIds="32411838"
-	resourceTags="windows, linux, windowsSQL"	 
-	productPesIds="14749"
+	supportTopicIds=""
+	resourceTags=""	 
+	productPesIds=""
 	cloudEnvironments="public"
 />
 

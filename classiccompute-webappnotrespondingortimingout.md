@@ -1,4 +1,18 @@
-# My web application is not responding or timing out  
+<properties 
+	pageTitle="My web application is not responding or timing out"
+	description="My web application is not responding or timing out"
+	service="microsoft.classiccompute"
+	resource="virtualmachines"
+	authors="jluk"
+	displayOrder="6"
+	selfHelpType="resource"
+	supportTopicIds=""
+	resourceTags=""	 
+	productPesIds=""
+	cloudEnvironments="public"
+/>
+
+# My web application is not responding or timing out
 
 ## **Recommended steps**
 1.	Check the Cloud Service availability on Azure Portal <br>
@@ -9,3 +23,5 @@ If the w3wp process does not show in Task Manager, then go to [IIS Manager] (htt
 50x errors are application related issues, refer back to the troubleshooting blade.
 4.	Check the default ports 80 (for http) and 443 (for https) are accessible. Use TELNET or TCPING to ensure that the w3wp process is listening on it. <br>
 If your web application is accessible locally but not externally, it could be a network related issue. 
+
+## **Recommended documents**

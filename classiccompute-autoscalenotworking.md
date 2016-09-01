@@ -1,3 +1,16 @@
+<properties 
+	pageTitle="My autoscale is not working"
+	description="My autoscale is not working"
+	service="microsoft.classiccompute"
+	resource="virtualmachines"
+	authors="jluk"
+	displayOrder="6"
+	selfHelpType="resource"
+	supportTopicIds=""
+	resourceTags=""	 
+	productPesIds=""
+	cloudEnvironments="public"
+/>
 
 # My autoscale is not working
 
