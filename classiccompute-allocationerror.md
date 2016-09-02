@@ -17,7 +17,7 @@
 ## **Recommended steps**
 Your Cloud Service deployment (Staging and/or Production) can get pinned to a single cluster. When the cluster reaches its capacity, then deployments will fail. Try the following steps.
 
-1. Wait for some time and retry the operation <br>
+1. Wait for some time and retry the deployment operation <br>
 Resources may be freed up on the cluster after waiting that allow the deployment or scaling request to succeed.   
 2. Create a new Cloud Service then deploy your package <br>
 This will often go on a new cluster with enough capacity. If successful, update the DNS to point to the new Cloud Service. 
