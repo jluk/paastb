@@ -30,7 +30,7 @@ Some common issues that cause roles to not be Ready include: <br>
 For more information on how to troubleshoot for this problem, refer to the documentation below. <br>
 
 ## **Recommended documents**
+[Full list of Cloud Services common issues - role recycling & startup](http://blogs.msdn.com/b/kwill/archive/2013/08/09/windows-azure-paas-compute-diagnostics-data.aspx)
 [Common issues that cause roles to recycle](https://azure.microsoft.com/documentation/articles/cloud-services-troubleshoot-common-issues-which-cause-roles-recycle/)<br>
 [Common steps to troubleshoot & address Cloud Service roles that fail to start](https://azure.microsoft.com/documentation/articles/cloud-services-troubleshoot-roles-that-fail-start/)<br>
 [Troubleshoot Cloud Service deployment problems](https://azure.microsoft.com/documentation/articles/cloud-services-troubleshoot-deployment-problems/)<br>
-[Troubleshoot Cloud Services common issues - role recycling & startup](http://blogs.msdn.com/b/kwill/archive/2013/08/09/windows-azure-paas-compute-diagnostics-data.aspx)
