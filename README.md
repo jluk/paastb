@@ -1,5 +1,16 @@
 # paastb
 
+## 9/6 Meeting
+### Discussion
+* Review state of scenario 1 after Imtiaz's input
+* Team to review .md files and add recommended docs where available
+
+### Action Items
+* Justin to follow up on deep-linking not Michael Flanakin has returned
+* Justin to make edits per discussion and resend update
+* Justin to follow-up with Andy on docs review
+* Chirag to discuss Autoscale scenario when returned from OOF
+
 ## 8/31 Meeting
 ### Meeting Discussion
 * Discuss state of scenario 1

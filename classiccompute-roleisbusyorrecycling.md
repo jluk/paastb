@@ -1,14 +1,14 @@
 <properties
-	pageTitle="worker role (paas)/application and service availability/role startup and recycling"
-	description="worker role (paas)/application and service availability/role startup and recycling"
+	pageTitle="My Role is Busy or Recycling"
+	description="My Role is Busy or Recycling"
 	service="microsoft.classiccompute"
-	resource="domainnames"
-	authors="aashu"
+	resource="virtualmachines"
+	authors="jluk"
 	displayOrder=""
-	selfHelpType="generic"
-	supportTopicIds="32422590"
+	selfHelpType="resource"
+	supportTopicIds=""
 	resourceTags=""
-	productPesIds="13185"
+	productPesIds=""
 	cloudEnvironments="public"
 />
 
@@ -26,9 +26,9 @@ Some common issues that cause roles be Busy or Recycling include: <br>
 * [Missing runtime dependencies] (https://blogs.msdn.microsoft.com/kwill/2013/10/03/troubleshooting-scenario-7-role-recycling/) <br>
 * [Failure to cleanup/delete file causing Role Recycle] (https://blogs.msdn.microsoft.com/kwill/2013/09/23/troubleshooting-scenario-6-role-recycling-after-running-for-some-time/) <br>
 * [Role returns from Run method when it should block indefinitely] (https://msdn.microsoft.com/library/microsoft.windowsazure.serviceruntime.roleentrypoint.run.aspx) <br>
-[More information on how to troubleshoot for these type of problems] (http://blogs.msdn.com/b/kwill/archive/2013/08/09/windows-azure-paas-compute-diagnostics-data.aspx) <br>
+
+Refer to documentation below for more information on how to troubleshoot these types of problems. <br>
 
 ## **Recommended documents**
-[Common issues that cause roles to recycle](https://azure.microsoft.com/documentation/articles/cloud-services-troubleshoot-common-issues-which-cause-roles-recycle/)<br>
-[Common steps to troubleshoot & address Cloud Service roles that fail to start](https://azure.microsoft.com/documentation/articles/cloud-services-troubleshoot-roles-that-fail-start/)<br>
-[Troubleshoot Cloud Service deployment problems](https://azure.microsoft.com/documentation/articles/cloud-services-troubleshoot-deployment-problems/)<br>
+[Azure PaaS Compute Diagnostics Data](http://blogs.msdn.com/b/kwill/archive/2013/08/09/windows-azure-paas-compute-diagnostics-data.aspx) <br>
+[Common Issues Causing Role Recycles](https://azure.microsoft.com/documentation/articles/cloud-services-troubleshoot-common-issues-which-cause-roles-recycle/) <br>
