@@ -3,11 +3,12 @@
 ## 9/6 Meeting
 ### Discussion
 * Review state of scenario 1 after Imtiaz's input
-* Team to review .md files and add recommended docs where available
+* Team to review .md files and add recommended docs where none exist
+  * My web application shows Internal Server Error or Service Unavailable (50x)
+  * My web application is not responding or timing out
 
 ### Action Items
 * Justin to follow up on deep-linking not Michael Flanakin has returned
-* Justin to make edits per discussion and resend update
 * Justin to follow-up with Andy on docs review
 * Chirag to discuss Autoscale scenario when returned from OOF
 
