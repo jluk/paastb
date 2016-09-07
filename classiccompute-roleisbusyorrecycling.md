@@ -13,12 +13,11 @@
 />
 
 # My Role is Busy or Recycling
-A role instance may loop between Started, Initializing, Busy, and Stopped. This condition could indicate a problem with your application code, package, or configuration file. <br>
-In that case, you should be able to see the status changing every few minutes and the Azure portal may say something like Recycling, Busy, or Initializing. This indicates that there is something wrong with the application that is keeping the role instance from running. <br>
+A role instance may loop between **Started**, **Initializing**, **Busy**, and **Stopped**. This condition could indicate a problem with your application code, package, or configuration file. <br>
 
 Check the detailed error message [here] (https://manage.windowsazure.com/microsoft.com#Workspaces/CloudServicesExtension/CloudService/ImtiazhWorkerRole/instances) to get details about the error message. <br>
 
-Some common issues that cause roles to be Busy or Recycling include: <br>
+Some common issues that cause roles to be **Busy** or **Recycling** include: <br>
 
 * [Role throwing unhandled exceptions while initializing or stopping] (https://blogs.msdn.microsoft.com/kwill/2013/08/20/troubleshooting-scenario-1-role-recycling/) <br>
 * [Start-up task causing a Busy state] (https://blogs.msdn.microsoft.com/kwill/2013/09/06/troubleshooting-scenario-3-role-stuck-in-busy/) <br>
