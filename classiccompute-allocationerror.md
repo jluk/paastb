@@ -23,7 +23,7 @@ Resources may be freed up on the cluster after waiting that allow the deployment
 2. Deploy your package to a new cloud service.<br>
 Deploying to a new cloud service will often go on a new cluster with enough capacity. If successful, update the DNS to point to the new cloud service. 
 
-3. Delete both production and staging slots and redeploy to the existing cloud service<br>  
+3. Delete both production and staging slots and redeploy to the existing cloud service.<br>
 The new deployment will go to a cluster that has enough capacity. However, this incurs downtime until the new deployment is ready. 
 
 4. Remove the affinity group and [migrate to a Regional Virtual Network] (https://azure.microsoft.com/en-in/documentation/articles/virtual-networks-migrate-to-regional-vnet/)
