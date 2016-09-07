@@ -15,16 +15,16 @@
 # My Role is Busy or Recycling
 A role instance may loop between **Started**, **Initializing**, **Busy**, and **Stopped**. This condition could indicate a problem with your application code, package, or configuration file. <br>
 
-Check the detailed error message [here] (https://manage.windowsazure.com/microsoft.com#Workspaces/CloudServicesExtension/CloudService/ImtiazhWorkerRole/instances) to get details about the error message. <br>
+1. [Check the detailed error message here] (https://manage.windowsazure.com/microsoft.com#Workspaces/CloudServicesExtension/list) to get details about the error message. <br>
 
-Some common issues that cause roles to be **Busy** or **Recycling** include: <br>
+2. Check if your detailed error message matches common issues that cause roles to be **Busy** or **Recycling**: <br>
 
-* [Role throwing unhandled exceptions while initializing or stopping] (https://blogs.msdn.microsoft.com/kwill/2013/08/20/troubleshooting-scenario-1-role-recycling/) <br>
-* [Start-up task causing a Busy state] (https://blogs.msdn.microsoft.com/kwill/2013/09/06/troubleshooting-scenario-3-role-stuck-in-busy/) <br>
-* [Start-up task causing a Recycling state after running fine for some time](https://blogs.msdn.microsoft.com/kwill/2013/08/26/troubleshooting-scenario-2-role-recycling-after-running-fine-for-2-weeks/) <br>
-* [Missing runtime dependencies] (https://blogs.msdn.microsoft.com/kwill/2013/10/03/troubleshooting-scenario-7-role-recycling/) <br>
-* [Failure to cleanup/delete file causing Role Recycle] (https://blogs.msdn.microsoft.com/kwill/2013/09/23/troubleshooting-scenario-6-role-recycling-after-running-for-some-time/) <br>
-* [Role returns from Run method when it should block indefinitely] (https://msdn.microsoft.com/library/microsoft.windowsazure.serviceruntime.roleentrypoint.run.aspx) <br>
+  * [Role throwing unhandled exceptions while initializing or stopping] (https://blogs.msdn.microsoft.com/kwill/2013/08/20/troubleshooting-scenario-1-role-recycling/) <br>
+  * [Start-up task causing a Busy state] (https://blogs.msdn.microsoft.com/kwill/2013/09/06/troubleshooting-scenario-3-role-stuck-in-busy/) <br>
+  * [Start-up task causing a Recycling state after running fine for some time](https://blogs.msdn.microsoft.com/kwill/2013/08/26/troubleshooting-scenario-2-role-recycling-after-running-fine-for-2-weeks/) <br>
+  * [Missing runtime dependencies] (https://blogs.msdn.microsoft.com/kwill/2013/10/03/troubleshooting-scenario-7-role-recycling/) <br>
+  * [Failure to cleanup/delete file causing Role Recycle] (https://blogs.msdn.microsoft.com/kwill/2013/09/23/troubleshooting-scenario-6-role-recycling-after-running-for-some-time/) <br>
+  * [Role returns from Run method when it should block indefinitely] (https://msdn.microsoft.com/library/microsoft.windowsazure.serviceruntime.roleentrypoint.run.aspx) <br>
 
 Refer to documentation below for more information on how to troubleshoot these types of problems. <br>
 
