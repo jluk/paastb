@@ -29,5 +29,5 @@ The new deployment will go to a cluster that has enough capacity. However, this 
 4. Remove the affinity group and [migrate to a Regional Virtual Network] (https://azure.microsoft.com/en-in/documentation/articles/virtual-networks-migrate-to-regional-vnet/)
  
 ## **Recommended documents**
-[About general allocation failures] (https://azure.microsoft.com/en-us/blog/allocation-failure-and-remediation/) <br>
-[About Cloud Services allocation failures] (https://azure.microsoft.com/en-in/documentation/articles/cloud-services-allocation-failures/)
+[About Cloud Services allocation failures] (https://azure.microsoft.com/en-in/documentation/articles/cloud-services-allocation-failures/) <br>
+[About general allocation failures] (https://azure.microsoft.com/en-us/blog/allocation-failure-and-remediation/)
