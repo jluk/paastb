@@ -1,5 +1,11 @@
 # paastb
 
+## 9/13 Meeting
+* Autoscale changes from Chirag
+* Deep-link needs to be created, possible work around
+
+### Action Items
+
 ## 9/6 Meeting
 ### Discussion
 * Review state of scenario 1 after Imtiaz's input
