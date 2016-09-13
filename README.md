@@ -5,6 +5,9 @@
 * Deep-link needs to be created, possible work around
 
 ### Action Items
+* Chirag to meet with Santhosh and review/update autoscale scenario
+* Justin to work on deep-link resource functionality with Ashu
+* Team to prep content for Kaitlyn to ship next week
 
 ## 9/6 Meeting
 ### Discussion
