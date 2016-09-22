@@ -1,5 +1,14 @@
 # paastb
 
+## 9/23 Meeting
+* Sean stating role instance metadata available in Ibiza by November
+* Results of autoscale formatting vote (3 scenarios vs 1 combined)
+
+### Action Items
+* Resource/setting menu needs to be changed
+* Autoscale content updated
+* Create PR for TB team
+
 ## 9/13 Meeting
 * Autoscale changes from Chirag
 * Deep-link needs to be created, possible work around
