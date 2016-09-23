@@ -2,7 +2,7 @@
 	pageTitle="My web application shows Internal Server Error or Service Unavailable (50x)"
 	description="My web application shows Internal Server Error or Service Unavailable (50x)"
 	service="microsoft.classiccompute"
-	resource="cloudservices"
+	resource="domainnames"
 	authors="jluk"
 	displayOrder="5"
 	selfHelpType="resource"

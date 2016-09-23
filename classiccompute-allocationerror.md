@@ -2,7 +2,7 @@
 	pageTitle="My deployment fails with allocation errors"
 	description="My deployment fails with allocation errors"
 	service="microsoft.classiccompute"
-	resource="cloudservices"
+	resource="domainnames"
 	authors="jluk"
 	displayOrder="2"
 	selfHelpType="resource"

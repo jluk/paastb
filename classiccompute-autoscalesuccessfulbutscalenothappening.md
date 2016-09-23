@@ -2,7 +2,7 @@
 	pageTitle="Autoscale seems to be successful but scaling is not happening"
 	description="Autoscale seems to be successful but scaling is not happening"
 	service="microsoft.classiccompute"
-	resource="cloudservices"
+	resource="domainnames"
 	authors="jluk"
 	displayOrder="7"
 	selfHelpType="resource"

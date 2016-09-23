@@ -2,7 +2,7 @@
 	pageTitle="My web application is not responding or timing out"
 	description="My web application is not responding or timing out"
 	service="microsoft.classiccompute"
-	resource="cloudservices"
+	resource="domainnames"
 	authors="jluk"
 	displayOrder="4"
 	selfHelpType="resource"

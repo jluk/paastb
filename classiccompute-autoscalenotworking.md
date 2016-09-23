@@ -2,7 +2,7 @@
 	pageTitle="My autoscale is not working"
 	description="My autoscale is not working"
 	service="microsoft.classiccompute"
-	resource="cloudservices"
+	resource="domainnames"
 	authors="jluk"
 	displayOrder="6"
 	selfHelpType="resource"

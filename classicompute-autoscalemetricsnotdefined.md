@@ -2,7 +2,7 @@
 	pageTitle="When using Autoscale, I get error 'Metrics data not available'"
 	description="When using Autoscale, I get error 'Metrics data not available'"
 	service="microsoft.classiccompute"
-	resource="cloudservices"
+	resource="domainnames"
 	authors="jluk"
 	displayOrder="8"
 	selfHelpType="resource"

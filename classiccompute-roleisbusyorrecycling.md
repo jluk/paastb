@@ -2,7 +2,7 @@
 	pageTitle="My Role is Busy or Recycling"
 	description="My Role is Busy or Recycling"
 	service="microsoft.classiccompute"
-	resource="cloudservices"
+	resource="domainnames"
 	authors="jluk"
 	displayOrder="1"
 	selfHelpType="resource"

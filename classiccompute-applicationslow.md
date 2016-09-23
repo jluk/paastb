@@ -2,7 +2,7 @@
 	pageTitle="My application is slow"
 	description="My application is slow"
 	service="microsoft.classiccompute"
-	resource="cloudservices"
+	resource="domainnames"
 	authors="jluk"
 	displayOrder="3"
 	selfHelpType="resource"
