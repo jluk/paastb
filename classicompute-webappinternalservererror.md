@@ -4,7 +4,7 @@
 	service="microsoft.classiccompute"
 	resource="cloudservices"
 	authors="jluk"
-	displayOrder="6"
+	displayOrder="5"
 	selfHelpType="resource"
 	supportTopicIds=""
 	resourceTags=""	 

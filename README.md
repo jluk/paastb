@@ -2,7 +2,11 @@
 
 ## 9/23 Meeting
 * Sean stating role instance metadata available in Ibiza by November
-* Results of autoscale formatting vote (3 scenarios vs 1 combined)
+* Results of autoscale formatting vote (3 scenarios vs 1 combined) --> Multi-Scenario
+  * More data points
+  * Content ready
+  * Better customer flow
+* Do we need to add the formulas/changes Santhosh provided
 
 ### Action Items
 * Resource/setting menu needs to be changed
