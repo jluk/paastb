@@ -1,5 +1,11 @@
 # paastb
 
+## 10/10 Meeting
+* Chirag, Andy, Rudy, Justin
+* Removed autoscale not successful, to move to support request blade
+* Made format/edits to remaining 2 autoscale scenarios
+* Sending to Andy for doc review, then sign-off from team for PR and Vlad to enable
+
 ## 9/23 Meeting
 * Sean stating role instance metadata available in Ibiza by November
 * Results of autoscale formatting vote (3 scenarios vs 1 combined) --> Multi-Scenario

@@ -4,7 +4,7 @@
 	service="microsoft.classiccompute"
 	resource="domainnames"
 	authors="jluk"
-	displayOrder="5"
+	displayOrder="4"
 	selfHelpType="resource"
 	supportTopicIds=""
 	resourceTags=""	 
