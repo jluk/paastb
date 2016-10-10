@@ -18,8 +18,8 @@ The following is a collection of solutions and explanations for why scaling may 
 ## **Recommended steps**
 * Ensure that all roles instances are in **Ready** state. <br>
 Autoscale only happens if all roles are in Ready state. <br>
-* Try to scale manually and if it succeeds, it may indicate the autoscale profile is configured incorrectly. <br>
-Multiple autoscale profiles can affect the behavior of autoscale. [Creating and managing autoscale profiles] (https://azure.microsoft.com/documentation/articles/insights-autoscale-best-practices/#autoscale-concepts) should be done from the same portal as each portal has unique default autoscale profiles. <br>
+* Try to scale manually.<br>
+If a manual scale succeeds, it may indicate that the autoscale profile is configured incorrectly. Multiple autoscale profiles can affect the behavior of autoscale. [Creating and managing autoscale profiles] (https://azure.microsoft.com/documentation/articles/insights-autoscale-best-practices/#autoscale-concepts) should be done from the same portal as each portal has unique default autoscale profiles. <br>
 * Try to scale in smaller increments as the cluster where your application is deployed may not have enough free cores. <br>
 * Increase the subscription quota limit by [contacting Microsoft] (data-blade:Microsoft_Azure_Support.NewSupportRequestBlade) as autosacle cannot succeed without sufficient compute quota. <br>
 * Create a host service and redeploy to it with the maximum instances needed. Scale down afterwards if needed. <br>
