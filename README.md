@@ -1,5 +1,12 @@
 # paastb
 
+## 10/12 Last day for content review for October
+* Email thread on adding step #5 for mem dump + open support request on webappnotresponding
+* Plan to sign-off if no other reviews by EoD
+* Will ask Vlad to enable resource tomorrow
+* English live in one week
+* Localization live in two weeks
+
 ## 10/10 Meeting
 * Chirag, Andy, Rudy, Justin
 * Removed autoscale not successful, to move to support request blade
