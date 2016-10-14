@@ -1,5 +1,7 @@
 # paastb
 
+## 10/14 v1 Shipped and Live
+
 ## 10/12 Last day for content review for October
 * Email thread on adding step #5 for mem dump + open support request on webappnotresponding
 * Plan to sign-off if no other reviews by EoD
